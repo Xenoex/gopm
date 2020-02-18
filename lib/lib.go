@@ -22,7 +22,7 @@ import (
 	"runtime"
 
 	"github.com/gpmgo/gopm/cmd"
-	"github.com/gpmgo/gopm/modules/cli"
+	"github.com/urfave/cli"
 	"github.com/gpmgo/gopm/modules/log"
 	"github.com/gpmgo/gopm/modules/setting"
 )
